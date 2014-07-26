@@ -66,7 +66,7 @@ training <- traindata
 The data provided has 159 predictors and 19622 records. After careful exploration, only few variables seem to explain most of the variation in the manner in which the barbell lifts exercise was conducted, which is the **classe** response variable.
 
 Below is a list of the extracted features(measurements) which explain most of the variation in the variable of interest (the **classe** variable).
-For more for information on how features were extracted, view the source code at **https://github.com/htsikata/Analytics** 
+For more for information on how features were extracted, view the source code at **https://github.com/htsikata/ML_Project.git** 
 
 
 1. raw_timestamp_part_1
